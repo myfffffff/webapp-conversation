@@ -1,14 +1,14 @@
 const translation = {
   common: {
     welcome: '欢迎使用',
-    appUnavailable: '应用不可用',
-    appUnkonwError: '应用不可用',
+    appUnavailable: '应用暂时不可用',
+    appUnkonwError: '应用出现未知错误',
   },
   chat: {
     newChat: '新对话',
     newChatDefaultName: '新的对话',
     openingStatementTitle: '对话开场白',
-    powerBy: 'Powered by',
+    powerBy: '技术支持',
     prompt: '提示词',
     privatePromptConfigTitle: '对话设置',
     publicPromptConfigTitle: '对话前提示词',
@@ -20,7 +20,7 @@ const translation = {
     privacyPolicyRight: '。',
   },
   errorMessage: {
-    valueOfVarRequired: '变量值必填',
+    valueOfVarRequired: '请填写必填项',
     waitForResponse: '请等待上条信息响应完成',
   },
   variableTable: {
